@@ -22,7 +22,7 @@
 <h2 align="left">Reach Out To Me</h2>
 <p align="left">
 <a href="https://twitter.com/fedthreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realsolar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stattiqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solar1337" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/stattiqs](https://www.youtube.com/channel/UCl_Opr463o6U08jm472FPgQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solar1337" height="30" width="40" /></a>
 <a href="https://discord.com/users/1210328051464798231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
 </p>
 
